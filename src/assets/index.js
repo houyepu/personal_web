@@ -28,6 +28,8 @@ import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
+import Car from "./Car.png";
+import ML from "./ML.png";
 import tripguide from "./tripguide.png";
 import Monash from "./company/Monash.png";
 import ACYA from "./company/ACYA.jpg";
@@ -35,6 +37,8 @@ import Govhack from "./company/Govhack.webp";
 import KPMG from "./company/KPMG.jpg";
 
 export {
+  Car,
+  ML,
   ACYA,
   Govhack,
   KPMG,

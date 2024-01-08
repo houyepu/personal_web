@@ -27,6 +27,8 @@ import {
     Govhack,
     KPMG,
     Monash,
+    Car,
+    ML,
   } from "../assets";
   
   export const navLinks = [
@@ -199,30 +201,26 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Car 3D",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "3D animated Car for practicing rendering and import GLTF model for the Machine learning web application.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "react three fiber",
           color: "green-text-gradient",
         },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: Car,
+      source_code_link: "https://github.com/houyepu/car_3d",
     },
     {
-      name: "Job IT",
+      name: "Machine learning web application",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application to automate the rigging process of the model and using animation retargeting to apply animation to the model.",
       tags: [
         {
           name: "react",
@@ -233,33 +231,12 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "MongoDB",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: ML,
+      source_code_link: "https://github.com/Monash-FIT3170/Team7_AI_Modelling",
     },
   ];
   
