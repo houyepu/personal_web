@@ -29,6 +29,7 @@ import {
     Monash,
     Car,
     ML,
+    Transurban,
   } from "../assets";
   
   export const navLinks = [
@@ -168,6 +169,19 @@ import {
         "Coordinating and oraganising End2End testing",
         "Delivered full End2End testing on time in Zephyr",
         "Using dashboard within Zephyr to maintain and orgainse over 100 test cases",
+      ],
+    },
+    {
+      title: "Core Tolling Software Engineering (IBL)",
+      company_name: "Transurban",
+      icon: Transurban,
+      iconBg: "#E6DEDD",
+      date: "Feb 2025 - Present",
+      points: [
+        "Developed a credit card validation service using SOA architecture, leveraging adapters, mediators, and database calls for validation.",
+        "Built fault-handling services, ensuring system resilience and reliability",
+        "Currently completing SOA Architecture Certification to enhance expertise in enterprise service-oriented solutions.",
+
       ],
     },
   ];

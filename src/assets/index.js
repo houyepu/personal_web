@@ -35,6 +35,7 @@ import Monash from "./company/Monash.png";
 import ACYA from "./company/ACYA.jpg";
 import Govhack from "./company/Govhack.webp";
 import KPMG from "./company/KPMG.jpg";
+import Transurban from "./company/Transurban.png";
 
 export {
   Car,
@@ -71,4 +72,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  Transurban,
 };
