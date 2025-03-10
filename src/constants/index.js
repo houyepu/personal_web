@@ -126,7 +126,8 @@ import {
       title: "Career Officer",
       company_name: "ACYA",
       icon: ACYA,
-      iconBg: "#E6DEDD",
+      iconBg: "#ffffff",
+      iconSize: "large",
       date: "Jan 2023 - Dec 2023",
       points: [
         "Hosted large scale networking event to provide opportunites for students to land internships",
@@ -149,7 +150,7 @@ import {
       title: "Project Manager",
       company_name: "Monash",
       icon: Monash,
-      iconBg: "#E6DEDD",
+      iconBg: "#010101",
       date: "Jan 2023 - Dec 2023",
       points: [
         "Operated as the project manager for the agile team of a Machine learning web application in a full year project",
@@ -163,7 +164,7 @@ import {
       title: "Technology Implementation Oracle Team (Vactioner)",
       company_name: "KPMG",
       icon: KPMG,
-      iconBg: "#E6DEDD",
+      iconBg: "#ffffff",
       date: "Nov 2023 - Feb 2024",
       points: [
         "Coordinating and oraganising End2End testing",
@@ -175,7 +176,7 @@ import {
       title: "Core Tolling Software Engineering (IBL)",
       company_name: "Transurban",
       icon: Transurban,
-      iconBg: "#E6DEDD",
+      iconBg: "#231f20",
       date: "Feb 2025 - Present",
       points: [
         "Developed a credit card validation service using SOA architecture, leveraging adapters, mediators, and database calls for validation.",
